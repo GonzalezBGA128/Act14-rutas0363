@@ -17,3 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+## link de referencia
+- https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
+- Grecia Arely Gonzalez Barraza a.21308051280363@cbtis128.edu.mx
+## Capturas
+- ![image](https://github.com/GonzalezBGA128/Act14-rutas0363/assets/144726562/5eb04bd1-c974-4b2a-b2c8-071b5d62c5c5)
+- ![image](https://github.com/GonzalezBGA128/Act14-rutas0363/assets/144726562/e01d9b23-8554-4a39-9058-4238234c1265)
+- ![image](https://github.com/GonzalezBGA128/Act14-rutas0363/assets/144726562/89e18f69-804a-4b34-9222-4d640d590916)
+
+
